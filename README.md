@@ -1,2 +1,9 @@
 # Typing_Game
-A secure full-stack typing game web app with real-time leaderboard, profile stats, Google OAuth, and session-based auth.
+
+## 🧪 Try It Yourself
+
+The full application is deployed online. You can explore all features live:
+
+👉 [Launch the App](https://game.khald.dev)
+
+> Source code is not public for security and privacy reasons. Contact me directly if you’d like a technical walkthrough.
